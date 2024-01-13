@@ -1,0 +1,7 @@
+﻿  programig project.cpp
+C:\Users\mouha\Desktop\PROG 2\programig project\programig project\programig project.cpp(55,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mouha\Desktop\PROG 2\programig project\programig project\programig project.cpp(85,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mouha\Desktop\PROG 2\programig project\programig project\programig project.cpp(105,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mouha\Desktop\PROG 2\programig project\programig project\programig project.cpp(478,6): warning C4101: 'num1': unreferenced local variable
+C:\Users\mouha\Desktop\PROG 2\programig project\programig project\programig project.cpp(325): warning C4715: 'login': not all control paths return a value
+  programig project.vcxproj -> C:\Users\mouha\Desktop\PROG 2\programig project\x64\Debug\programig project.exe

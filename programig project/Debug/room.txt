@@ -1,0 +1,8 @@
+101	GHBAYREH	SUITE	120	
+897	HAMRA	DOUBLE-ROOM	120	free-wifi	free-cancilation	
+4456	SHIYEH	SINGEL-ROOM	60	
+445	AAIN-SAADEH	SUITE	120	free-food	free-cancilation	
+2345	AAIN-SAADEH	SINGEL-ROOM	60	free-wifi	free-cancilation	free-food	
+678	HAMRA	DOUBLE-ROOM	120	free-wifi	free-cancilation	free-chokolata	
+334	SHIYEH	SINGEL-ROOM	60	free-cancilation	free-food	
+3232	SHIYEH	DOUBLE-ROOM	120	free-cancilation	free-wifi	

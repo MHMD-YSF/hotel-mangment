@@ -1,0 +1,4 @@
+1	free-wifi
+2	free-cancilation
+3	free-food	
+4	free-chokolata5
